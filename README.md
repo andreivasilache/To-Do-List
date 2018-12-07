@@ -7,7 +7,7 @@ I used: Html, Css, JavaScript, jQuery
 
 Application Link: http://vasilache-andrei.herokuapp.com/todo
 
-Portofolio Link: http://vasilache-andrei.herokuapp.com/
+Portfolio Link: http://vasilache-andrei.herokuapp.com/
 
 
 <img src="http://vasilache-andrei.herokuapp.com/portofolioGifs/todoList.gif"> 
